@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "age": 25,
+    "height": 1.8,
+    "isMarried": false,
+    "sex": "m",
+    "hobbies": [
+      "walking",
+      "painting"
+    ]
+  },
+  {
+    "firstName": "Anne",
+    "lastName": "Cutberth",
+    "age": 30,
+    "height": 1.72,
+    "isMarried": true,
+    "sex": "f",
+    "hobbies": [
+      "reading"
+    ]
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Dumphy",
+    "age": 21,
+    "height": 1.67,
+    "isMarried": false,
+    "sex": "f",
+    "hobbies": [
+      "sience",
+      "reading",
+      "traveling"
+    ]
+  }
+]
